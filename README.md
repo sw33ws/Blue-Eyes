@@ -8,17 +8,11 @@ This is my first assignment for my coding boot camp, in which i go through and e
 
 # Installation
 
+# Usage
+
+go to https://sw33ws.github.io/Blue-Eyes/ to view the website
+
 download the index.html file, than download the assets folder
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 # Credits
 
